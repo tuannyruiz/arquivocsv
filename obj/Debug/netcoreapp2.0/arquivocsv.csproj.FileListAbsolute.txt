@@ -1,0 +1,10 @@
+C:\Users\FIC\arquivocsv\bin\Debug\netcoreapp2.0\arquivocsv.deps.json
+C:\Users\FIC\arquivocsv\bin\Debug\netcoreapp2.0\arquivocsv.runtimeconfig.json
+C:\Users\FIC\arquivocsv\bin\Debug\netcoreapp2.0\arquivocsv.runtimeconfig.dev.json
+C:\Users\FIC\arquivocsv\bin\Debug\netcoreapp2.0\arquivocsv.dll
+C:\Users\FIC\arquivocsv\bin\Debug\netcoreapp2.0\arquivocsv.pdb
+C:\Users\FIC\arquivocsv\obj\Debug\netcoreapp2.0\arquivocsv.csproj.CoreCompileInputs.cache
+C:\Users\FIC\arquivocsv\obj\Debug\netcoreapp2.0\arquivocsv.AssemblyInfoInputs.cache
+C:\Users\FIC\arquivocsv\obj\Debug\netcoreapp2.0\arquivocsv.AssemblyInfo.cs
+C:\Users\FIC\arquivocsv\obj\Debug\netcoreapp2.0\arquivocsv.dll
+C:\Users\FIC\arquivocsv\obj\Debug\netcoreapp2.0\arquivocsv.pdb
